@@ -159,7 +159,9 @@ This script formats data structure using L<Perinci::Result::Format>. If data
 structure is not detected as an enveloped result (see L<Rinci::function> for
 more information about enveloped result), it will add an envelope for you.
 
-You can use this script to reformat ouput from L<Perinci::CmdLine> or Riap.
+You can use this script to reformat ouput from L<Perinci::CmdLine> (although by
+default Perinci::CmdLine already provides C<--format> to let user format the
+result) or L<Riap> response.
 
 It accepts input as JSON, or several other alternative formats (see the C<-i>
 option). It by default outputs the data using the L<text> format (use the C<-o>
