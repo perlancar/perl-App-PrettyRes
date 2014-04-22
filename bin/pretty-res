@@ -201,4 +201,6 @@ Autodetect input format.
 
 L<Perinci::Result::Format>
 
+L<pretty>
+
 =cut
