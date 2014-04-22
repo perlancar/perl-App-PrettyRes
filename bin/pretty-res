@@ -90,7 +90,7 @@ Usage:
 
 Examples:
 
- % echo '[200, "OK", 1..5]' | pretty-res -i perl
+ % echo '[200, "OK", [1..5]]' | pretty-res -i perl
  .----.
  |  1 |
  |  2 |
