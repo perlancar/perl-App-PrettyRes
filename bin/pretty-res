@@ -80,7 +80,7 @@ show_output();
 
 1;
 # ABSTRACT: Format enveloped result prettily
-# PODNAME: pretty-res
+# PODNAME:
 
 =head1 SYNOPSIS
 
