@@ -191,11 +191,6 @@ Pick output format. See L<Perinci::Result::Format> for available formats.
 99 on command-line options error.
 
 
-=head1 TODO
-
-Autodetect input format.
-
-
 =head1 FAQ
 
 
