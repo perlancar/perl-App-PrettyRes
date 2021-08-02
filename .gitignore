@@ -2,3 +2,4 @@ App-PrettyRes-*
 .build
 *~
 nytprof*
+.DS_Store
